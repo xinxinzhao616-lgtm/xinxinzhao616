@@ -23,13 +23,13 @@ repository               : "xinxinzhao616-lgtm/xinxinzhao616"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xinxin Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Konstanz, Germany"
+  employer         : "University of Konstanz"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xinxinzhao616@gmail.com" 
 
   # Academic websites
   academia         : # URL
