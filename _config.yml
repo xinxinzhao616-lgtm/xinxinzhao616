@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "xinxinzhao | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Xinxin Zhao"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              ：&description "Academic website of Xinxin Zhao, covering research in Comparative Politics, Elite Politics, and Political Economy."# Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://xinxinzhao616-lgtm.github.io"
 baseurl                  : "/xinxinzhao616"
 repository               : "xinxinzhao616-lgtm/xinxinzhao616"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Xinxin Zhao"
   pronouns         : # example: "she/her"  
-  bio              : ""Double Degree Master's Student in IP & CP"
+  bio              : "Double Degree Master's Student in IP & CP"
   location         : "Konstanz, Germany"
   employer         : "University of Konstanz & Charles University"
   uri              : # URL
@@ -40,7 +40,6 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -50,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "xinxinzhao616-lgtm"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
