@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "xinxinzhao | Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Xinxin Zhao"
-description              ：&description "Academic website of Xinxin Zhao, covering research in Comparative Politics, Elite Politics, and Political Economy."# Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Academic website of Xinxin Zhao, covering research in Comparative Politics, Elite Politics, and Political Economy."     # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://xinxinzhao616-lgtm.github.io"
 baseurl                  : "/xinxinzhao616"
 repository               : "xinxinzhao616-lgtm/xinxinzhao616"
